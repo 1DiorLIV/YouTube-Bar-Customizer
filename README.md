@@ -2,7 +2,12 @@
 
 A simple and fun Chrome extension that lets you customize YouTube’s progress bar with your own gradient colors and custom scrubber (progress handle) image or color.
 
-<img src="icon.png" width="64" />
+<table>
+  <tr>
+    <td><img src="icon.png" width="64"/></td>
+    <td><img src="https://github.com/1DiorLIV/YouTube-Bar-Customizer/blob/main/icon%20store.png?raw=true" width="64"/></td>
+  </tr>
+</table>
 
 ---
 

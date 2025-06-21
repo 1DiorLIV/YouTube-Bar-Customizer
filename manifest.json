@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "YouTube Progress Bar Customizer",
-  "version": "1.1",
+  "name": "YouTube Bar Customizer",
+  "version": "1.2",
   "description": "Customize the progress bar and replace scrubber button with user image",
   "permissions": ["storage", "activeTab"],
   "host_permissions": ["*://www.youtube.com/*"],
